@@ -1,0 +1,5 @@
+command:
+  phpcpd --version:
+    exit-status: 0
+    stdout:
+      - phpcpd

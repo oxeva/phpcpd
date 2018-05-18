@@ -1,7 +1,7 @@
 PHP Copy/Paste Detector container
 =================================
 
-[![Build Status](https://travis-ci.org/Gwerlas/phpcpd.svg?branch=master)](https://travis-ci.org/Gwerlas/phpcpd)
+[![Build Status](https://travis-ci.org/oxeva/phpcpd.svg?branch=master)](https://travis-ci.org/oxeva/phpcpd)
 
 What is PHP Copy/Paste Detector
 -------------------------------
